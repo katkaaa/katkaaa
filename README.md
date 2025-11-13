@@ -22,9 +22,6 @@
   <a href="https://discord.com/users/670160730909048832" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="40" alt="discord logo"  />
   </a>
-  <a href="https://x.com/_katkaa" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="60" height="40" alt="twitter logo"  />
-  </a>
 </div>
 
 ###
